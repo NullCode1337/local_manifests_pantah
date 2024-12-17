@@ -14,6 +14,6 @@
     <project path="device/google/gs101" name="LineageOS/android_device_google_gs101" revision="lineage-22.0"/>
     <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" revision="lineage-22.0"/>
   
-    <project path="device/google/pantah-kernels/5.10" name="device/google/pantah-kernels/5.10" remote="aosp-panther" revision="refs/tags/android-15.0.0_r2"/>
+    <project path="device/google/pantah-kernels/5.10" name="device/google/pantah-kernels/5.10" remote="aosp" revision="refs/tags/android-15.0.0_r2"/>
     <project path="vendor/google/panther" name="proprietary_vendor_google_panther" remote="muppets"/>
 </manifest>
